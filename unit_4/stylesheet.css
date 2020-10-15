@@ -7,8 +7,16 @@ h1{
 font-family: "Homemade Apple", cursive;
 font-size: 25px;
 color: #B2BEB5;
-font-weight: normal;
+font-weight: bold;
 }
+
+h2{
+font-family: "Homemade Apple", cursive;
+font-size: 25px;
+color: #B2BEB5;
+font-weight: bold;
+}
+
 p
 {font-family: "Architects Daughter", cursive;
 }
