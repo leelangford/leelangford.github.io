@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Homemade+Apple&display=swap');
 body{
 	background-color: lightyellow;
 }
-h1{
-font-family: "Comic Sans MS", cursive, sans-serif;
+h1{ 
+font-family: "Homemade Apple", cursive;
 font-size: 25px;
 color: #B2BEB5;
 font-weight: normal;
+}
+p
+{font-family: "Architects Daughter", cursive;
 }
